@@ -5,3 +5,5 @@ Coruscant
 Endor
 
 Tatoonie
+
+Hoth
