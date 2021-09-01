@@ -9,3 +9,5 @@ Tatoonie
 Hoth
 
 Dantooine
+
+Jakku
