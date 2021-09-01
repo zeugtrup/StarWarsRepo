@@ -7,3 +7,5 @@ Endor
 Tatoonie
 
 Hoth
+
+Jakku
