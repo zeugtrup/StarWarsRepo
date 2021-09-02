@@ -11,3 +11,7 @@ Chewbacca
 Han Solo
 
 Jabba
+
+Rey
+
+Finn
